@@ -3,8 +3,8 @@
 
 A responsive, multi-page website for **Brew & Bean Artisan Coffee**, a Cape Town coffee shop founded in 2018 by siblings Mia and James Peterson. Built with HTML5, CSS3 and vanilla JavaScript.
 
-- **Live site:** _add your Netlify / GitHub Pages link here_
-- **Repository:** _add your GitHub repository link here_
+_- **Live site:** __add your Netlify / GitHub Pages link here_
+- **Repository:** _add your GitHub repository link here__
 
 ## Project structure
 
