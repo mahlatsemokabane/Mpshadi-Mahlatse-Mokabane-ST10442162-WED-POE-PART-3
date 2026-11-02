@@ -1,10 +1,9 @@
-# Mpshadi-Mahlatse-Mokabane-ST10442162-WED-POE-PART-3
 # Brew & Bean Artisan Coffee — Website (WEDE POE Part 3)
 
 A responsive, multi-page website for **Brew & Bean Artisan Coffee**, a Cape Town coffee shop founded in 2018 by siblings Mia and James Peterson. Built with HTML5, CSS3 and vanilla JavaScript.
 
-_- **Live site:** __add your Netlify / GitHub Pages link here_
-- **Repository:** _add your GitHub repository link here__
+- **Live site:** _add your Netlify / GitHub Pages link here_
+- **Repository:** _add your GitHub repository link here_
 
 ## Project structure
 
@@ -98,7 +97,7 @@ git push origin main
 ### Part 1
 - Created the Brew & Bean proposal, page structure and content (see `documents/`).
 
-## References list
+## References
 Fonts: Google Fonts (2026) *Inter*. Available at: https://fonts.google.com/specimen/Inter (Accessed: 26 October 2026).
 
 Google (2026) *SEO starter guide*. Google Search Central. Available at: https://developers.google.com/search/docs/fundamentals/seo-starter-guide (Accessed: 26 October 2026).
